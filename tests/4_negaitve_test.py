@@ -20,7 +20,7 @@ capabilities = dict(
 
 appium_server_url = 'http://localhost:4723'
 
-# Converts capabilities to AppiumOptions instance
+ 
 capabilities_options = UiAutomator2Options().load_capabilities(capabilities)
 
 class TestAppium(unittest.TestCase):
