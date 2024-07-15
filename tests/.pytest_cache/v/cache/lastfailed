@@ -1,0 +1,8 @@
+{
+  "home_test.py::TestAppium::test_navigate_and_check_tariff": true,
+  "bosspack_test.py::TestAppium::test_cek_tarif": true,
+  "negaitve_test.py::TestAppium::test_cek_tarif": true,
+  "negaitve_test.py::TestAppium::test_terlalu_jauh": true,
+  "negaitve_test.py::TestAppium::test_allert_berat": true,
+  "login_test.py::test_transaksi_download_tiket": true
+}

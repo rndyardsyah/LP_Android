@@ -1,0 +1,13 @@
+[
+  "appium_test.py::TestAppium::test",
+  "bosspack_test.py::TestAppium::test_cek_tarif",
+  "home_test.py::TestAppium::test_cek_tarif",
+  "home_test.py::TestAppium::test_navigate_and_check_tariff",
+  "login_test.py::test_beli",
+  "login_test.py::test_transaksi_download_tiket",
+  "negaitve_test.py::TestAppium::test_allert_berat",
+  "negaitve_test.py::TestAppium::test_cek_tarif",
+  "negaitve_test.py::TestAppium::test_terlalu_jauh",
+  "search_lokasi_test.py::TestAppium::test_search_lokasi",
+  "search_lokasi_test.py::TestAppium::test_tukar"
+]
