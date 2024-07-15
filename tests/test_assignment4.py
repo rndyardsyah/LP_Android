@@ -52,5 +52,6 @@ class TestAppium(unittest.TestCase):
         self.destination_page.enter_destination_address()
         self.destination_page.search_route("makassar")
 
+
 if __name__ == '__main__':
     unittest.main()
